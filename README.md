@@ -8,7 +8,7 @@
 💬 Got any questions or just want to chat? Feel free to reach out. I'm all ears! 
 
 ## 🌐 Socials:
-[![Telegram](https://img.shields.io/badge/Telegram-%230088CC.svg?logo=Telegram&logoColor=white)]([https://web.telegram.org/k](https://web.telegram.org/k/#@ROOM_Soldier))
+[![Telegram](https://img.shields.io/badge/Telegram-%230088CC.svg?logo=Telegram&logoColor=white)]([https://web.telegram.org/k](/#@ROOM_Soldier))
 
 # 💻 Tech Stack:
 
